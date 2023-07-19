@@ -1,0 +1,8 @@
+# address of Nextdns DOH
+dns.nextdns.io
+anycast.dns.nextdns.io
+chromium.dns.nextdns.io
+firefox.dns.nextdns.io
+dns1.nextdns.io
+dns2.nextdns.io
+steering.nextdns.io
